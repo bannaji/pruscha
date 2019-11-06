@@ -53,9 +53,9 @@
 
 + tt
 % location of what
-- @ tt
+- @ tt location
 
-+ [*] tt [*]
++ [*] tt location[*]{weight=10}
 - tt is located neat the food court.
 
 +[*] hod  [*] {weight=2}
@@ -73,7 +73,7 @@
 - what do you want to know about sjt?
 - try asking "sjt phone number" or "sjt loaction"
 
-+ [*] tt [*]{weight=10}
++ [*] tt [*]
 - what do you want to know about tt?
 - try asking "tt phone number" or "tt loaction"
 
