@@ -32,10 +32,10 @@
 - no problem
 - no worries
 
-+ [*] sjt [*] location [*] {weight= 11}
++ [*] sjt [*] location [*] {weight=10}
 - it is located near the lakshmibai block.
 
-+ where is sjt
++ where is sjt {weight=10}
 - @ sjt location
 
 + [*] scope [*]
@@ -69,7 +69,7 @@
 % which school hod you want to know about
 - prof jayakumar
 
-+ [*] sjt [*]{weight=10}
++ [*] sjt [*]
 - what do you want to know about sjt?
 - try asking "sjt phone number" or "sjt loaction"
 
