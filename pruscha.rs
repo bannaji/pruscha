@@ -32,11 +32,11 @@
 - no problem
 - no worries
 
-+ [*] sjt [*] location [*] {weight=10}
++ [*] sjt location [*] {weight=10}
 - it is located near the lakshmibai block.
 
 + where is sjt {weight=10}
-- @ sjt location
+- {@ sjt location}
 
 + [*] scope [*]
 - scope is known as scool of computer science and engineering, its head office is loacted on SJT third floor.
@@ -49,11 +49,11 @@
 
 + sjt
 % location of what
-- @ sjt location
+- {@ sjt location}
 
 + tt
 % location of what
-- @ tt location
+- {@ tt location}
 
 + [*] tt location[*]{weight=10}
 - tt is located neat the food court.
