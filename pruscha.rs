@@ -107,25 +107,23 @@
 + [*] counselling [*] {weight= 10}
 - what do you want to know about counselling
 
-+ i made mistakes in my application
-- candidates can make changes in the application form by logging using their application number. they can make changes except in email id, mobile number, address details etc. and submit it till february 28, 2018, which is the last date.
-
 + when can we download the admit card of viteee
 - to download the admit card of viteee, candidates will had to first book their slots and then they will be able to download their admit card
 
 + what are the placement chances if i study in vit
 - the university holds a good track record of placements at good companies and packages. to know more, candidates can check the university website.
+
 + which branch is best at vit and which campus
--as per student perceptions and reports, the most preferred branches are computer science engineering, mechanical engineering, electronics and communication engineering. the preferred campus by most students is vit vellore since it is the oldest campus while the others also are equally good..
+- as per student perceptions and reports, the most preferred branches are computer science engineering, mechanical engineering, electronics and communication engineering. the preferred campus by most students is vit vellore since it is the oldest campus while the others also are equally good..
 
 + which is the best vit campus
--according to careers360 rating, vit vellore rates higher than the other campuses when it comes to placement, student life, infrastructure, college life, faculty, hostel, affordability, industry exposure etc.
+- according to careers360 rating, vit vellore rates higher than the other campuses when it comes to placement, student life, infrastructure, college life, faculty, hostel, affordability, industry exposure etc.
 
 
 
 
 + what is the counselling fee and how to apply for viteee
--candidates will have to attend the counselling of viteee with a demand draft of rs 50,000 drawn in favour of vit university payable at vellore. this amount is inclusive of rs 12000 (service tax) towards vit counselling and fee.
+- candidates will have to attend the counselling of viteee with a demand draft of rs 50,000 drawn in favour of vit university payable at vellore. this amount is inclusive of rs 12000 (service tax) towards vit counselling and fee.
 
 + is there different counselling for the different campuses
 - no, there is a single window counselling across all campuses of vit. candidates can attend the counselling at any of the campuses.
@@ -134,7 +132,7 @@
 - the procedure for viteee includes registration, verification of documents, allotment of branch, uploading of photograph, signature, finger print, student profile which includes uploading documents and hostel enquiry
 
 + what documents are required for viteee counselling
--candidates need to produce the original and photocopies of viteee admit card, counselling card, copy of viteee result, class x board certificate, marks sheet of qualifying exam, class xii hall ticket, community certificate (if applicable), nativity certificate, demand draft of rs 50,000, undertaking form.
+- candidates need to produce the original and photocopies of viteee admit card, counselling card, copy of viteee result, class x board certificate, marks sheet of qualifying exam, class xii hall ticket, community certificate (if applicable), nativity certificate, demand draft of rs 50,000, undertaking form.
 
 + i cannot be present for viteee counselling. who can attend on my behalf
 - as specified, candidates will have to attend the counselling themselves but in case due to certain circumstances, if they fail to, they will have to intimate the university regarding the same and ask for a subsequent date and time to attend the counselling.
