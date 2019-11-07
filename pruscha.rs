@@ -84,7 +84,6 @@
 - CAT is the sessional conducted by VIT. It is taken twice and CAT 2 is openbook exam.
 
 
-
 + [*] tt [*]
 - what do you want to know about tt?
 - try asking "tt phone number" or "tt loaction"
@@ -120,45 +119,9 @@
 - according to careers360 rating, vit vellore rates higher than the other campuses when it comes to placement, student life, infrastructure, college life, faculty, hostel, affordability, industry exposure etc.
 
 
-
-
-+ what is the counselling fee and how to apply for viteee
-- candidates will have to attend the counselling of viteee with a demand draft of rs 50,000 drawn in favour of vit university payable at vellore. this amount is inclusive of rs 12000 (service tax) towards vit counselling and fee.
-
-+ is there different counselling for the different campuses
-- no, there is a single window counselling across all campuses of vit. candidates can attend the counselling at any of the campuses.
- 
-+ what is the procedure for viteee counselling
-- the procedure for viteee includes registration, verification of documents, allotment of branch, uploading of photograph, signature, finger print, student profile which includes uploading documents and hostel enquiry
-
-+ what documents are required for viteee counselling
-- candidates need to produce the original and photocopies of viteee admit card, counselling card, copy of viteee result, class x board certificate, marks sheet of qualifying exam, class xii hall ticket, community certificate (if applicable), nativity certificate, demand draft of rs 50,000, undertaking form.
-
-
- 
-+ how much initial fee has to be paid for viteee counselling
-- candidates need to pay rs 50,000 for counselling in the form of dd drawn in favour of vit university payable at vellore.
-
-+ what is the eligibility criteria to apply for viteee
-- for viteee, candidates need to have passed 10+2 from state or cbse board with 60% marks in physics, chemistry and mathematics.
-
-+ what is the age limit for viteee
-- candidates should be born on or after july 1, 1996 as per viteee eligibility criteria 2018.
-+ how many attempts can i make for viteee
-- candidates can appear in viteee only once.
-+ i am a diploma student. can i appy for viteee
-- no, diploma candidates cannot apply for viteee 2018 exam.
-
-+ how much should i have in class 12 to apply for viteee
-- candidates must have 60% in physics, chemistry and mathematics/ biology in aggregate in 10+2. however, candidates belonging to sc/ st categories and north-east need 50% in aggregate in the above mentioned subjects.
-
 + [*] i have taken a drop [*]
 - in this case, candidates need to check the eligibility of 10+2 passing year, age limit as they have to be born on or after july 1, 1996 and class xii qualifying exams details. if they meet the criteria, they can apply. a drop will not make a difference in admissions.
 
-
-
-+ is there any eligibility relaxation in viteee and for whom
-- there is an eligibility relaxation for jammu & kashmir candidates, reserved category candidates like sc and st and north east candidates coming from arunachal pradesh, assam, manipur, meghalaya, mizoram, nagaland, sikkim and tripura. such candidates will have to score 50% aggregate marks in physics, chemistry, mathematics/ biology in 10+2 or equivalent exam.
 
 + [*] i belong to a north east state [*]
 - candidates from north east need 50% aggregate in 10+2 or equivalent exam in physics, chemistry, mathematics or biology.
