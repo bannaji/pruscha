@@ -107,7 +107,7 @@
 + [*] counselling [*] {weight= 10}
 - what do you want to know about counselling
 
-+ i made mistakes in my application. will there be correction dates for viteee
++ i made mistakes in my application
 - candidates can make changes in the application form by logging using their application number. they can make changes except in email id, mobile number, address details etc. and submit it till february 28, 2018, which is the last date.
 
 + when can we download the admit card of viteee
