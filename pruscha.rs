@@ -134,8 +134,7 @@
 + what documents are required for viteee counselling
 - candidates need to produce the original and photocopies of viteee admit card, counselling card, copy of viteee result, class x board certificate, marks sheet of qualifying exam, class xii hall ticket, community certificate (if applicable), nativity certificate, demand draft of rs 50,000, undertaking form.
 
-+ i cannot be present for viteee counselling. who can attend on my behalf
-- as specified, candidates will have to attend the counselling themselves but in case due to certain circumstances, if they fail to, they will have to intimate the university regarding the same and ask for a subsequent date and time to attend the counselling.
+
  
 + how much initial fee has to be paid for viteee counselling
 - candidates need to pay rs 50,000 for counselling in the form of dd drawn in favour of vit university payable at vellore.
@@ -153,17 +152,10 @@
 + how much should i have in class 12 to apply for viteee
 - candidates must have 60% in physics, chemistry and mathematics/ biology in aggregate in 10+2. however, candidates belonging to sc/ st categories and north-east need 50% in aggregate in the above mentioned subjects.
 
-+ i have taken a drop. will it affect my admission
++ [*] i have taken a drop [*]
 - in this case, candidates need to check the eligibility of 10+2 passing year, age limit as they have to be born on or after july 1, 1996 and class xii qualifying exams details. if they meet the criteria, they can apply. a drop will not make a difference in admissions.
 
-+ if i have a gap after class 10, can i apply for viteee
-- candidates can appear in viteee only if they meet the eligibility criteria of passing year, qualifying marks and age limit.
 
-+ i have failed in class 12 and appeared for the exam again. can i apply for viteee
-- in such a case, candidates need to check the age limit as he or she must have completed 17 years as on july 1, 1996 and must have secured minimum 60% marks in physics, chemistry & mathematics in 10+2 or equivalent exam. minimum 50% marks are required in class 10+2 if candidates belong to sc or st categories.
-
-+ if i am biology student but i have studied physics & chemistry, can i apply for viteee which courses will i be eligible for
-- candidates with physics, chemistry and biology will be eligible for admission to b.tech in bioengineering, biotechnology, ece with spl. in biomedical engineering, b.tech (computer science and engg.) with specialty in bioinformatics but after joining, candidates will have to register for mathematics as bridge course and this is compulsory.
 
 + is there any eligibility relaxation in viteee and for whom
 - there is an eligibility relaxation for jammu & kashmir candidates, reserved category candidates like sc and st and north east candidates coming from arunachal pradesh, assam, manipur, meghalaya, mizoram, nagaland, sikkim and tripura. such candidates will have to score 50% aggregate marks in physics, chemistry, mathematics/ biology in 10+2 or equivalent exam.
