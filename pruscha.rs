@@ -80,7 +80,7 @@
 - what do you want to know about sjt?
 - try asking "sjt phone number" or "sjt loaction"
 
-+ [*] allmart [*]
++ [*] (allmart| shopping | all mart) [*]
 -all mart is vit's own shopping hub where you can find various types of supplies and things you need. it is just outside the gate 2 of vit.
 
 + [*] cat [*]
