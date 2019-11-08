@@ -103,7 +103,7 @@
 + [*] time [*] sjt [*]
 - the opening time of sjt is from 7 am to 7:30 pm
 
-+ [*] (chancellor|g visshvanathan|chancellor's) [*]
++ [*] (chancellor|g visshvanathan|chancellor*) [*]
 - Dr. G vishvanathan is our chancellor. our chancellor's office is located in Main building on the ground floor, you will have to take an appointment from MB in order to meet him.
 
 + [*] counselling [*] {weight= 10}
