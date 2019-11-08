@@ -55,6 +55,9 @@
 % location of what
 - {@ tt location}
 
++ [*] techology [*]
+- {@ tt }
+
 + tt
 % location of what
 - {@ tt location}
